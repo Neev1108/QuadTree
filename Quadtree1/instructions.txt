@@ -1,0 +1,7 @@
+c MyAwesomeTree -5.2 0 10.6 32.7
+i MyAwesomeTree SpatiallyInteresting -3.1 7.8
+i MyAwesomeTree SpatiallyInteresting -3.1 20
+i MyAwesomeTree blah -3.1 21
+i MyAwesomeTree other 6 7
+i MyAwesomeTree stuff 7 7
+l MyAwesomeTree -4 1 0 18 0 5
