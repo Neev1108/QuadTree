@@ -10,6 +10,9 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+//Quad Tree Class
+
 public class QuadTreeManager {
 
 	String db;
